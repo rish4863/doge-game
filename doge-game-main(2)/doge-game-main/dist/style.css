@@ -3,6 +3,9 @@
 body {
   background-color: red;
 }
+h1 {
+  color: green;
+}
 #outputDiv {
   display: none;
 }

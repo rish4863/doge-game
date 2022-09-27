@@ -1,5 +1,5 @@
-# doge-game
+# doge-game-echolab
 #Rishi Doreswamy
 #Dr. Cumbie 
 #CIS376 
-9/12/22
+9/26/22
